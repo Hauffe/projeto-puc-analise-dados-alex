@@ -6,7 +6,7 @@
 # 
 # **Prof. Jean Paul Barddal**
 # 
-# `Nome aqui`
+# `Alexandre Hauffe`
 # 
 # `Nome aqui`
 # 
